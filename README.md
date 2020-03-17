@@ -9,7 +9,7 @@
 
 # Preview
 
- ![preview](./preview.jpg)
+ ![preview](./preview2.jpg)
 
 # Install
 
