@@ -4,12 +4,12 @@
 # Features
 
  - Add auto-numbering head
- - mask toc fixed at right side to get better navigator menu
- - change **bold format** to red color to get better view
+ - Make toc fixed at right side to get better navigator menu
+ - Change **bold format** to red color to get better view
 
 # Preview
 
- ![preview](./preview2.jpg)
+ ![preview](./preview.jpg)
 
 # Install
 
